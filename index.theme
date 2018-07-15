@@ -2,6 +2,7 @@
 Name=WinXP
 Comment=Windows XP icon pack, based on YlmfOS to solve scaling problems
 Comment=http://b00merang.weebly.com/winxp.html
+Inherits=w2k-bibo,Classic95
 
 Example=folder
 
